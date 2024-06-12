@@ -1,0 +1,7 @@
+pandas 
+numpy 
+seaborn 
+flask
+
+# for running directly through requirments 'pip install -r requirements.txt'
+-e .
